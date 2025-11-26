@@ -15,7 +15,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 import csv
 
 # Токен бота - встав свій токен від BotFather
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = 8453810222:AAGk1BQKnQNP6zfQ6b72l9x7WlYpB5PYLug
 
 # Ініціалізація бота
 bot = Bot(token=BOT_TOKEN)
